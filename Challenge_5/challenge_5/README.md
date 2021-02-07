@@ -5,11 +5,11 @@ Module 5 challenge
 
 This is a python application written with Pandas in Jupyter Lab that uses the Requests library and makes an Alpaca API call in to retrieve the required data. In the first section, this data is used to determine the current value of a member’s cryptocurrency wallet and evaluate their emergency fund. In the second section we use the data to create a financial planner for retirement. 
 
-![Savings Info](Challenge_Assignments/Challenge_5/Images/Screen Shot 2021-02-06 at 4.19.23 PM.png)
+![Savings Info](Challenge_5/Images/Screen Shot 2021-02-06 at 4.19.23 PM.png)
 
-![Upper and Lower Bounds](Challenge_Assignments/Challenge_5/Images/Screen Shot 2021-02-06 at 4.41.38 PM.png)
+![Upper and Lower Bounds](Challenge_5/Images/Screen Shot 2021-02-06 at 4.41.38 PM.png)
 
-![Upper and Lower Bounds Table](Challenge_Assignments/Challenge_5/Images/Screen Shot 2021-02-06 at 4.43.17 PM.png)
+![Upper and Lower Bounds Table](Challenge_5/Images/Screen Shot 2021-02-06 at 4.43.17 PM.png)
 
 ---
 
